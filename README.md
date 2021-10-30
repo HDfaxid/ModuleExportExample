@@ -1,0 +1,2 @@
+# ModuleExportExample
+for node.js
